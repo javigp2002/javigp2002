@@ -7,7 +7,7 @@ I'm Javier González Peregrín, a Master's student in Computer Engineering at UG
 
 
 I love turning 💡 ideas into real-world software solutions!
-One of my proudest achievements is developing and launching a production app for the University of Granada (biori.ugr.es), which I built entirely by myself — from initial research and design to deployment and maintenance.
+One of my proudest achievements is developing and launching a production app for the University of Granada (https://biori.ugr.es), which I built entirely by myself — from initial research and design to deployment and maintenance.
 🌟 Key Highlights
 
     🤝 Excellent communication and collaboration with non-technical stakeholders to understand their needs and deliver user-friendly solutions.
@@ -53,10 +53,10 @@ I’m passionate about bridging the gap between technology and people, and I enj
 | Framework / Technology |
 |-----------------------|
 | Android (Kotlin/Java) |
+| NestJS                |
 | Flutter               |
 | Node.js               |
 | Express.js            |
-| NestJS                |
 | React                 |
 | Spring Boot           |
 | MySQL                 |
