@@ -21,6 +21,8 @@ One of my proudest achievements is developing and launching a production app for
 I’m passionate about bridging the gap between technology and people, and I enjoy learning new tools and frameworks to bring innovative ideas to life!
 
 ## Interesting Works on Github 
+- Spatial SDK:
+  - [Smart Home Control(Quest 3)](https://github.com/javigp2002/spatial_sdk) - Working
 - Android:
   - JetPack With Clean Arch: [FormGim](https://github.com/javigp2002/FormGim)
   - XML With Clean Arch: [E-Commerce app](https://github.com/javigp2002/ECommerceAndroidApp)
@@ -29,6 +31,7 @@ I’m passionate about bridging the gap between technology and people, and I enj
   - NestJs With Clean Arch: [FormGim Backend](https://github.com/javigp2002/FormGimBackend)
 - TDD And deployment
   - [Lazy Food](https://github.com/javigp2002/LazyFood)
+  - [Sharcar](https://github.com/javigp2002/Sharcar) - Ktor and Kotlin
 - Python:
   - [Images with OpenCv](https://github.com/javigp2002/proyectoCUIA)
 
@@ -54,6 +57,7 @@ I’m passionate about bridging the gap between technology and people, and I enj
 |-----------------------|
 | Android (Kotlin/Java) |
 | NestJS                |
+| Ktor                  |
 | Flutter               |
 | Node.js               |
 | Express.js            |
