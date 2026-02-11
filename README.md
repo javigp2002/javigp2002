@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I'm Javier González Peregrín, a Master's student in Computer Engineering at UGR and a passionate developer. I love learning, building, and collaborating on projects that drive technology forward and solve real-world problems. I'm always looking to improve my skills and trying to challenge myself.
+I'm Javier González Peregrín, Master in Computer Engineering at UGR and a passionate developer. I love learning, building, and collaborating on projects that drive technology forward and solve real-world problems. I'm always looking to improve my skills and trying to challenge myself.
 
 
 I love turning 💡 ideas into real-world software solutions!
